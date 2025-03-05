@@ -1,8 +1,8 @@
 <h1 align="center">Landing Page MFX Academy </h1>
-<img src=/> <br><br>
+<img src= "https://github.com/BrunoDutra91/Landing-Page2-Mfx/blob/master/img/Captura%20de%20tela%202025-03-05%20173348.png?raw=true" /> <br><br>
 
 
-<h3> Esta é a minha segunda Landing Page, desenvolvida com as aulas da escola Mfx Aademy <br><br>
+<h3> Esta é a minha segunda Landing Page, desenvolvida com as aulas da escola Mfx Academy para treinar Flexbox <br><br>
 
 - As linguagens que foram utilizadas: </h3>
 
@@ -13,6 +13,6 @@
 
 <div align="center"> 
 <a   >
-  <img   width="120px"   /> 
+  <img   width="120px"  /> 
 </a>
 </div>
