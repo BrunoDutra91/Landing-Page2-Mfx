@@ -1,4 +1,5 @@
 <h1 align="center">Landing Page MFX Academy </h1>
+<br>
 <img src= "https://github.com/BrunoDutra91/Landing-Page2-Mfx/blob/master/img/Captura%20de%20tela%202025-03-05%20173348.png?raw=true" /> <br><br>
 
 
